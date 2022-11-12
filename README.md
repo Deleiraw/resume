@@ -2,5 +2,4 @@
 
 ## Результат вы можете посмотреть тут
 
-[Мой первый проект по HTML & CSS] (https://deleiraw.github.io/resume/)
-
+[Мой первый проект по HTML & CSS](https://deleiraw.github.io/resume/)
